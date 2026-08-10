@@ -1,4 +1,4 @@
-# Task_1: Exploratory Data Analysis (EDA)
+# Task 1 — Exploratory Data Analysis (EDA)
 
 Exploratory analysis of the **Sample Superstore** dataset to understand its structure, quality, patterns, statistical relationships, and potential data issues before further analysis.
 
